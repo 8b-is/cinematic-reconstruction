@@ -74,11 +74,8 @@ the provenance store, and the policy-diffusion section (§16.9).
 
 ## Repository layout
 
-```
-documents/
-  cinematic-reconstruction-v4.pdf   compiled monograph
-  cinematic-reconstruction-v4.txt   plaintext extraction (searchable)
-```
+- [Compiled monograph](documents/cinematic-reconstruction.pdf)
+- [Searchable plaintext](documents/cinematic-reconstruction.txt)
+- [LaTeX source](documents/cinematic-reconstruction.tex)
 
-The `.tex` source is not currently published; this repo is the canonical home
-for the document and its revisions.
+This repo is the canonical home for the document, its source, and its revisions.
